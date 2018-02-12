@@ -6,7 +6,7 @@ import task.idealo.tyr.library.core.enums.Direction;
 import task.idealo.tyr.library.core.enums.Rotation;
 import task.idealo.tyr.library.core.utils.ValidationUtils;
 import task.idealo.tyr.library.data.Robot;
-import task.idealo.tyr.library.exception.TYRError;
+import task.idealo.tyr.library.core.exception.TYRError;
 
 import static task.idealo.tyr.library.core.constants.Constants.*;
 

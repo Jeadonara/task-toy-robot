@@ -1,4 +1,4 @@
-package task.idealo.tyr.library.exception;
+package task.idealo.tyr.library.core.exception;
 
 public class TYRError {
 
